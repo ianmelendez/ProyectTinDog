@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/TinDog Completed Website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TinDog-Start-master"
+	}
+}
